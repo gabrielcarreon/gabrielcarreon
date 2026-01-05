@@ -1,4 +1,3 @@
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/gabrielcarreon/gabrielcarreon/blob/main/assets/bg.gif" alt="header"/>
 </div>
@@ -6,7 +5,12 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>
+    👋 Hi, I'm Gabriel
+
+I'm a Software Engineer with 3+ years of experience in the Laravel ecosystem. I enjoy building scalable web applications, writing clean and maintainable code, and continuously improving system performance and security.
+
+I love exploring different IT domains—ranging from backend development and system design to cybersecurity and machine learning—always eager to learn and grow as a developer.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
@@ -42,4 +46,5 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
 
