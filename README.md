@@ -17,7 +17,7 @@ I love exploring different IT domains—ranging from backend development and sys
 
 <h2 align="center"> 🛠️ My Techstack </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/laravel%20-%f530033D.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
@@ -30,6 +30,7 @@ I love exploring different IT domains—ranging from backend development and sys
   <a target="_blank"href="https://www.linkedin.com/in/gabrielolivercarreon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:gabriel.oliver.carreon@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 
