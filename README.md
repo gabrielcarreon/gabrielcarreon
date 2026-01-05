@@ -2,8 +2,6 @@
   <img src="https://github.com/gabrielcarreon/gabrielcarreon/blob/main/assets/bg.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
-
-<h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
     👋 Hi, I'm Gabriel
@@ -46,5 +44,6 @@ I love exploring different IT domains—ranging from backend development and sys
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
 
 
