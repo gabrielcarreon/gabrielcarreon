@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/gabrielcarreon/gabrielcarreon/master/assets/bg.jpg" alt="header"/>
+  <img src="https://github.com/gabrielcarreon/gabrielcarreon/blob/main/assets/bg.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -42,3 +42,4 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
